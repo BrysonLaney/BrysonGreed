@@ -1,0 +1,4 @@
+In the game greed I will have 3 files. one for the score system which will have 4 classes. 
+rocks, gems, points and score. one file for collisions which will have 3 classes.
+ the movement, grid, and collsion classes in them. Finally I will have the window file which 
+ will contain the code for running it all together and create the visuals in the window.
